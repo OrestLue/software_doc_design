@@ -1,0 +1,12 @@
+{
+  "name": "09",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvsync": "^1.3.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "mysql2": "^2.2.5"
+  }
+}

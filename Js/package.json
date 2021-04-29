@@ -1,0 +1,7 @@
+{
+  "name": "Js",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
